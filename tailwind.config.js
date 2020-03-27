@@ -3,5 +3,7 @@ module.exports = {
     extend: {},
   },
   variants: {},
-  plugins: ['gatsby-plugin-postcss'],
+  plugins: [
+    require('tailwindcss'),
+  ],
 }
