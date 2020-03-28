@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación Acádemica",
+    "description": "Formación acádemica, grados de estudios e insituciones a las que asistí",
+    "items": [
+        {
+            "name": "Uniminuto",
+            "degree" : "Tecnologia en Informatica",
+            "score": "4"
+        },
+        {
+            "name": "Uniminuto",
+            "degree" : "Ingeniería en sistemas",
+            "score": "4"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "slug": "others",
+    "title": "Formación Acádemica",
+    "description": "Formación acádemica, grados de estudios e insituciones a las que asistí",
+    "items": [
+        {
+            "name": "Online",
+            "degree" : "Sena",
+            "score": "4"
+        }
+    ]
+}

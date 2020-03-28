@@ -1,0 +1,19 @@
+{
+    "slug": "online",
+    "title": "Cursos Online",
+    "description": "Cursos finalizados en plataformas de educación en internet",
+    "items": [
+        {
+            "name": "Online",
+            "url" : "www.google.com"
+        },
+        {
+            "name": "Online Two",
+            "url" : "www.google.com"
+        },
+        {
+            "name": "Online Three",
+            "url" : "www.google.com"
+        }
+    ]
+}
