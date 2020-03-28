@@ -1,6 +1,5 @@
 import React from 'react';
 
-import repos from '../data/repos'
 
 export default (props) => (
     <li className="flex items-center">

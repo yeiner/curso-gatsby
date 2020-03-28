@@ -1,0 +1,37 @@
+{
+    "data": {
+        "email": "yeiner.morales@gmail.com",
+        "username": "yeinermorales",
+        "certificates": [
+            {
+                "score": 10,
+                "code" : "sha1",
+                "title": "Quedate en casa"
+            }
+        ],
+        "articles": [],
+        "courses": [
+            {
+                "title": "Curso de Docker",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/docker"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "50.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            }
+        ],
+        "finished_courses": [
+            {
+                "title" : "Curso profesional de Docker",
+                "url" : "http://codigofacilito.com/courses/docker"
+            },
+            {
+                "title": "Curso profesional de Gastby",
+                "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"
+            }
+        ]
+    },
+    "errors": []
+}
